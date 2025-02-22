@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "nodemon node_server.js"
+  }
+}
